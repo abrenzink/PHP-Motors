@@ -9,3 +9,5 @@ Feel free to:
   - update your account if necessary;
   - add reviews;
   - update your reviews.
+
+WARNING: record your chosen password! No password recovery implemented yet.
